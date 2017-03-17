@@ -3,5 +3,6 @@
 int main() {
   printf("Hello Jonghwa");
   
-  prntf("Hello Mina");
+  printf("Hello Mina");
+  printf("Hello Anaki");
 }
